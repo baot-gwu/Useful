@@ -1,0 +1,6 @@
+database:
+  username: useful
+  password: useful_app
+  host: localhost
+  port: 5432
+  databaseName: useful
